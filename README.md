@@ -1,4 +1,3 @@
-![Minimal Modern Business Brand Guidelines Presentation](https://user-images.githubusercontent.com/103539360/163456250-ef81bdfe-d48e-4bf3-a821-f410e3b009b3.png)
 - 👋 Hi, I’m Faraz Siddiqui.
 - 👀 I’m interested in programming and I'm a beginner.
 - 🌱 I’m currently learning Java + Data Structures and Algorithms.
