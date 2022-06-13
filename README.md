@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Faraz Siddiqui.
-- 👀 I’m interested in programming and I'm a beginner.
-- 🌱 I’m currently learning Java + Data Structures and Algorithms.
-- 😶 I practice consistently on LeetCode.
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/ahmed-faraz-siddiqui/) and [Twitter](https://twitter.com/farazzzsiddiqui).
+```java
+public class Bio {
+        String name = "Faraz Siddiqui";
+        String userName = "farazxsiddiqui";
+        String college = "Kalinga Institute of Industrial Technology";
+        String[] interests = new String[]{"Android Development","DevOps","Open Source"};
+}
+
+```
 
 
 <!---
