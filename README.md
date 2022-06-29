@@ -1,11 +1,14 @@
 ```java
-public class Bio {
-        String name = "Faraz Siddiqui";
-        String userName = "farazxsiddiqui";
-        String college = "Kalinga Institute of Industrial Technology";
-        String[] interests = new String[]{"Android Development","DevOps","Open Source"};
-}
+package com.Faraz;
 
+class Bio {
+    String name = "Faraz Siddiqui";
+    String userName = "farazxsiddiqui";
+    String college = "Kalinga Institute of Industrial Technology";
+    String[] interests = new String[]{"Android Development", "DevOps", "Open Source"};
+    String[] programmingLanguages = new String[]{"Java", "C/C++"};
+    boolean happy = true;
+}
 ```
 
 
