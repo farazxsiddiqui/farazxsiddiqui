@@ -5,6 +5,7 @@ class Bio {
     String name = "Faraz Siddiqui";
     String userName = "farazxsiddiqui";
     String college = "Kalinga Institute of Industrial Technology";
+    String nationality = "Indian";
     String[] interests = {"Java Development", "DevOps", "Open Source"};
     String[] programmingLanguages = {"Java", "C/C++"};
     Boolean happy = true;
