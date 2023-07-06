@@ -8,8 +8,7 @@ class Bio {
     String nationality = "Indian";
     String[] interests = {"Java Development", "DevOps", "Open Source"};
     String[] programmingLanguages = {"Java", "C/C++"};
-    Boolean happy = true;
-    //Alhamdulillah
+    //Alhamdulillah for the good, the bad and everything in between.
 }
 ```
 
