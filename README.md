@@ -2,7 +2,7 @@
 package com.Faraz;
 
 class Bio {
-    String name = "Faraz Siddiqui";
+    String name = "Ahmed Faraz Siddiqui";
     String userName = "farazxsiddiqui";
     String college = "Kalinga Institute of Industrial Technology";
     String nationality = "Indian";
