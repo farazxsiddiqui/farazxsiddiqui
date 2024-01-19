@@ -6,9 +6,8 @@ class Bio {
     String userName = "farazxsiddiqui";
     String college = "Kalinga Institute of Industrial Technology";
     String nationality = "Indian";
-    String[] interests = {"Java Development", "DevOps", "Open Source"};
-    String[] programmingLanguages = {"Java", "C/C++"};
-    //Alhamdulillah for the good, the bad and everything in between.
+    String[] interests = {"Software Development and Research","Data Science", "Open Source"};
+    String[] programmingLanguages = {"Java", "C/C++", "Python"};
 }
 ```
 
