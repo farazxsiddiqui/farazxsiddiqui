@@ -4,8 +4,6 @@ package com.Faraz;
 class Bio {
     String name = "Ahmed Faraz Siddiqui";
     String userName = "farazxsiddiqui";
-    String college = "Kalinga Institute of Industrial Technology";
-    String nationality = "Indian";
     String[] interests = {"Software Development and Research","Data Science", "Open Source"};
     String[] programmingLanguages = {"Java", "C/C++", "Python"};
 }
